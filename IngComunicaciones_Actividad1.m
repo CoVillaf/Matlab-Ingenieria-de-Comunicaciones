@@ -1,5 +1,9 @@
 %% =================================================================
 %  Actividad 1 - Ingenieria de Comunicaciones 2
+
+%  Don't run the whole code. Every section is used to answer a specific 
+%  question (check pdf).
+%  So, RUN IT BY SECTIONS, eg, only Q2.a, Only Q2.b and so on
 % =================================================================
 
 %% Q2.a) Señal senoidal
